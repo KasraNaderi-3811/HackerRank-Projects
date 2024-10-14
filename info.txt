@@ -1,1 +1,0 @@
-This the trepository for my exercise relted to hackerrank projects with python.
